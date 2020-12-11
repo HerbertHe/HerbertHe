@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-#### I'm Herbert He
+[![Herbert He's github stats](https://github-readme-stats.vercel.app/api?username=HerbertHe&count_private=true)](https://github.com/HerbertHe/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact)](https://github.com/HerbertHe/github-readme-stats)
 
 > 一个嗜好coding的无趣直男
 

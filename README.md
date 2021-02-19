@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact)](https://github.com/HerbertHe/github-readme-stats)
 
-> 一个嗜好coding的无趣直男
+> 更多关于我, 可以看下导航页 [Jieec Server](https://server.jieec.cn)
 
 - 🔭 大四应用物理本科在读，Nuco.Tech团队
 - 🌱 主要方向前端开发，习惯React

@@ -6,7 +6,7 @@
 
 > 更多关于我, 可以看下导航页 [Jieec Server](http://server.jieec.cn)
 
-- 🔭 大四应用物理本科在读，Nuco.Tech团队
+- 🔭 应用物理学本科毕业, 西部计划新疆维吾尔自治区志愿服务，Nuco.Tech团队
 - 🌱 主要方向前端开发，习惯React
 - 👯 为[Nuco.Tech](https://github.com/NucoTech)建设Nucers社区中
 - 🤔 深挖前端开源项目ing（￣︶￣）↗　

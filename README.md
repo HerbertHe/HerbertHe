@@ -4,6 +4,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact)](https://github.com/HerbertHe/github-readme-stats)
 
+- Graduated from the North University of China, majored in Applied Physics.
+- Collegiate/Postgraduate Volunteer to China's Far West Program in Xinjiang Uygur Autonomous Region
+- Member of Nuco.Tech Studio
+- Frontend developer, Gopher
+- Contect me:
+  - admin@jieec.cn
+  - Herbert.He0229@gmail.com
+  - Herbert.He0229@outlook.com
+  - he_junjie_dev@mail.nuco.tech
+
 > 更多关于我, 可以看下导航页 [Jieec Server](http://server.jieec.cn)
 
 - 🔭 应用物理学本科毕业, 西部计划新疆维吾尔自治区志愿服务，Nuco.Tech团队

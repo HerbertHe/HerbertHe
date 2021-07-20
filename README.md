@@ -12,7 +12,7 @@
   - Herbert.He0229@outlook.com
   - he_junjie_dev@mail.nuco.tech
 
-> 更多关于我, 可以看下导航页 [Jieec Server](http://server.jieec.cn)
+> 更多关于我, 可以看下导航页 [Jieec Server](https://server.jieec.cn)
 
 - 🔭 应用物理学本科毕业, 西部计划新疆维吾尔自治区志愿服务，Nuco.Tech团队
 - 🌱 主要方向前端开发，习惯React

@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Herbert He's github stats](https://github-readme-stats.vercel.app/api?username=HerbertHe&count_private=true)](https://github.com/HerbertHe/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact)](https://github.com/HerbertHe/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=HerbertHe&count_private=true" height="200px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact" height="200px" />
 
 - Graduated from the North University of China, majored in Applied Physics.
 - Collegiate/Postgraduate Volunteer to China's Far West Program in Xinjiang Uygur Autonomous Region

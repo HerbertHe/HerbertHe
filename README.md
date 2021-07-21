@@ -2,6 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=HerbertHe&count_private=true" height="170px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact" height="170px" />
 
+[Resume](https://resume.goer.icu/en) | [Talks](https://talks.goer.icu) | [Blog](https://goer.icu)
+
 - Graduated from the North University of China, majored in Applied Physics.
 - Collegiate/Postgraduate Volunteer to China's Far West Program in Xinjiang Uygur Autonomous Region
 - Member of Nuco.Tech Studio
@@ -12,7 +14,9 @@
   - Herbert.He0229@outlook.com
   - he_junjie_dev@mail.nuco.tech
 
-> 更多关于我, 可以看下导航页 [Jieec Server](https://server.jieec.cn)
+[简历](https://resume.goer.icu) | [Talks](https://talks.goer.icu) | [博客](https://goer.icu)
+
+> 更多 [Jieec Server](https://server.jieec.cn)
 
 - 🔭 应用物理学本科毕业, 西部计划新疆维吾尔自治区志愿服务，Nuco.Tech团队
 - 🌱 主要方向前端开发，习惯React

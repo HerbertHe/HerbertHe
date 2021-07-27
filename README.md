@@ -6,7 +6,7 @@
 
 - Graduated from the North University of China, majored in Applied Physics.
 - Collegiate/Postgraduate Volunteer to China's Far West Program in Xinjiang Uygur Autonomous Region
-- Member of Nuco.Tech Studio
+- Co-founder & Member of Nuco.Tech Studio
 - Frontend developer, Gopher
 - Contect me:
   - admin@jieec.cn

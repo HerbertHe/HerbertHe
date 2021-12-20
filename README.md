@@ -18,9 +18,9 @@
 
 > 更多 [Jieec Server](https://server.jieec.cn)
 
-- 🔭 应用物理学本科毕业, 西部计划新疆维吾尔自治区志愿服务，Nuco.Tech团队
+- 🔭 应用物理学本科毕业, 西部计划服务新疆专项志愿服务
 - 🌱 主要方向前端开发，习惯React
-- 👯 为[Nuco.Tech](https://github.com/NucoTech)建设Nucers社区中
+- 👯 [Nuco.Tech](https://github.com/NucoTech)联合创始人
 - 🤔 深挖前端开源项目ing（￣︶￣）↗　
 - 💬 可以一起交流包括但不限于前端开发、前端工程化及前端优化经验等(。・∀・)ノ
 - 📫 可以通过邮箱联系我：
@@ -29,4 +29,4 @@
   - Herbert.He0229@foxmail.com
   - Herbert.He0229@outlook.com
   - he_junjie_dev@mail.nuco.tech
-- 👀 Fun fact: Nuco.Tech大前端团队
+- 👀 长期找工作属于是

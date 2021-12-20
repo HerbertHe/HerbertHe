@@ -18,7 +18,7 @@
 
 > 更多 [Jieec Server](https://server.jieec.cn)
 
-- 🔭 应用物理学本科毕业, 西部计划服务新疆专项志愿服务
+- 🔭 应用物理学本科毕业, 西部计划服务新疆专项志愿者, 中国青年志愿者
 - 🌱 主要方向前端开发，习惯React
 - 👯 [Nuco.Tech](https://github.com/NucoTech)联合创始人
 - 🤔 深挖前端开源项目ing（￣︶￣）↗　

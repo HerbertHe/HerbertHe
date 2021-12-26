@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=HerbertHe&count_private=true" height="170px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api?username=HerbertHe&count_private=true&show_icons=true" height="200px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact&hide=html,css&langs_count=10" height="200px" />
 
 [Resume](https://resume.goer.icu/en) | [Talks](https://talks.goer.icu) | [Blog](https://goer.icu)
 

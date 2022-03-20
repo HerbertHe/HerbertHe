@@ -7,7 +7,7 @@
 - Graduated from the North University of China, majored in Applied Physics.
 - Collegiate/Postgraduate Volunteer to China's Far West Program in Xinjiang Uygur Autonomous Region
 - Co-founder & Member of Nuco.Tech Studio
-- Frontend developer, Gopher
+- Frontend developer, Gopher, Rustacean
 - Contect me:
   - admin@jieec.cn
   - Herbert.He0229@gmail.com

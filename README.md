@@ -5,7 +5,7 @@
 [Resume](https://resume.goer.icu) | [Talks](https://talks.goer.icu) | [Blog](https://goer.icu)
 
 - Graduated from the North University of China, majored in Applied Physics.
-- Collegiate/Postgraduate Volunteer to China's Far West Program in Xinjiang Uygur Autonomous Region
+- Collegiate Volunteer to China's Far West Program in Xinjiang Uygur Autonomous Region
 - Co-founder & Member of Nuco.Tech Studio
 - Frontend developer, Gopher, Rustacean
 - Contect me:
@@ -15,8 +15,6 @@
   - he_junjie_dev@mail.nuco.tech
 
 [简历](https://resume.goer.icu) | [Talks](https://talks.goer.icu) | [博客](https://goer.icu)
-
-> 更多 [Jieec Server](https://server.jieec.cn)
 
 - 🔭 应用物理学本科毕业，西部计划服务新疆专项志愿者，中国青年志愿者
 - 🌱 主要方向前端开发，习惯React

@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=HerbertHe&count_private=true&show_icons=true" height="200px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact&hide=html,css&langs_count=10" height="200px" />
 
-[Resume](https://resume.goer.icu) | [Talks](https://talks.goer.icu) | [Blog](https://goer.icu)
+[Resume](https://resume.goer.icu) | [Idea](https://idea.goer.icu) | [Talks](https://talks.goer.icu) | [Blog](https://goer.icu)
 
 - Graduated from the North University of China, majored in Applied Physics.
 - Collegiate Volunteer to China's Far West Program in Xinjiang Uygur Autonomous Region

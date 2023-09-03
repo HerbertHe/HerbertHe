@@ -11,8 +11,7 @@
 - Co-founder & Member of Nuco.Tech Studio
 - Frontend developer, Gopher, Rustacean
 - Contect me:
-  - admin@jieec.cn
+  - i@jieec.cn
   - Herbert.He0229@foxmail.com
   - Herbert.He0229@gmail.com
   - Herbert.He0229@outlook.com
-  - he_junjie_dev@mail.nuco.tech

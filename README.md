@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=HerbertHe&count_private=true&show_icons=true" height="200px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact&hide=html,css&langs_count=10" height="200px" />
 
-[Resume](https://resume.ibert.me) | [Idea](https://idea.ibert.me) | [Talks](https://talks.ibert.me) | [Blog](https://ibert.me)
+[Resume](https://resume.ibert.me) | [Idea](https://idea.ibert.me) | [Sponsor](https://sponsor.ibert.me) | [Blog](https://ibert.me)
 
 - Graduated from the North University of China, majored in Applied Physics.
 - Collegiate Volunteer to China's Far West Program in Xinjiang Uygur Autonomous Region

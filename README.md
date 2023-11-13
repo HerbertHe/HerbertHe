@@ -10,7 +10,7 @@
 - Collegiate Volunteer to China's Far West Program in Xinjiang Uygur Autonomous Region
 - Co-founder & Member of Nuco.Tech Studio
 - Frontend developer, Gopher, Rustacean
-- Contect me:
+- Contact me:
   - hi@ibert.me
   - Herbert.He0229@foxmail.com
   - Herbert.He0229@gmail.com

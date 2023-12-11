@@ -28,8 +28,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - Graduated from the North University of China, majored in Applied Physics.
-- Collegiate Volunteer to China's Far West Program in Xinjiang Uygur Autonomous Region
-- Co-founder & Member of Nuco.Tech Studio
 - Frontend developer, Gopher, Rustacean
 - Contact me:
   - hi@ibert.me

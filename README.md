@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**Due to the reason that I am preparing for the Postgraduate Entrance Examination, I plan to leave GitHub for more than one year. If you want to contact me, please email to me by sending to hi@ibert.me**
-
 <img src="https://github-readme-stats.vercel.app/api?username=HerbertHe&count_private=true&show_icons=true" height="200px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact&hide=html,css&langs_count=10" height="200px" />
 
 [Resume](https://resume.ibert.me) | [Idea](https://idea.ibert.me) | [Sponsor](https://sponsor.ibert.me) | [Blog](https://ibert.me)
@@ -27,7 +25,7 @@
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- Graduated from the North University of China, majored in Applied Physics.
+- Graduated from the North University of China, Bachelor of Science in Applied Physics.
 - Frontend developer, Gopher, Rustacean
 - Contact me:
   - hi@ibert.me

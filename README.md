@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=HerbertHe&count_private=true&show_icons=true" height="200px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact&hide=html,css&langs_count=10" height="200px" />
-
 [Resume](https://resume.ibert.me) | [Idea](https://idea.ibert.me) | [Sponsor](https://sponsor.ibert.me) | [Blog](https://ibert.me)
+
+![profile](./profile-3d-contrib/profile-green-animate.svg)
+
+<img src="https://github-readme-stats.vercel.app/api?username=HerbertHe&count_private=true&show_icons=true" height="200px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact&hide=html,css&langs_count=10" height="200px" />
 
 [![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://ibert.me/feed.xml)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uPGhwZyApZ)
@@ -24,8 +26,6 @@
 ![RN](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![profile](./profile-3d-contrib/profile-green-animate.svg)
 
 - Graduated from the North University of China, Bachelor of Science in Applied Physics.
 - Frontend developer, Gopher, Rustacean

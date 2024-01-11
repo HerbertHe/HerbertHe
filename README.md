@@ -25,6 +25,8 @@
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+![profile](./profile-3d-contrib/profile-green-animate.svg)
+
 - Graduated from the North University of China, Bachelor of Science in Applied Physics.
 - Frontend developer, Gopher, Rustacean
 - Contact me:

@@ -2,12 +2,12 @@
 
 [Resume](https://resume.ibert.me) | [Idea](https://idea.ibert.me) | [Sponsor](https://sponsor.ibert.me) | [Blog](https://ibert.me)
 
+[![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://ibert.me/feed.xml)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uPGhwZyApZ)
+
 ![profile](./profile-3d-contrib/profile-green-animate.svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=HerbertHe&count_private=true&show_icons=true" height="200px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact&hide=html,css&langs_count=10" height="200px" />
-
-[![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://ibert.me/feed.xml)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uPGhwZyApZ)
 
 ![MacBook](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
@@ -27,10 +27,21 @@
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+#### ⚠️ WIP Projects:
+
+1. Adaption for Home Assistant
+
+> for using in China Mainland
+
+  - [hass-supervised-installer-cn](https://github.com/HerbertHe/hass-supervised-installer-cn) 👌
+  - [hass-supervisor-cn](https://github.com/HerbertHe/hass-supervisor-cn) ⚠️
+  - [hass-version-cn](https://github.com/HerbertHe/hass-version-cn) ⚠️
+
+#### More
+
 - Graduated from the North University of China, Bachelor of Science in Applied Physics.
 - Frontend developer, Gopher, Rustacean
 - Contact me:
   - hi@ibert.me
   - Herbert.He0229@foxmail.com
   - Herbert.He0229@gmail.com
-  - Herbert.He0229@outlook.com

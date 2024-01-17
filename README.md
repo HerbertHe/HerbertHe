@@ -7,8 +7,6 @@
 
 ![profile](./profile-3d-contrib/profile-green-animate.svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=HerbertHe&count_private=true&show_icons=true" height="200px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertHe&layout=compact&hide=html,css&langs_count=10" height="200px" />
-
 ![MacBook](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)

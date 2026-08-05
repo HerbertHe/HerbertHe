@@ -38,6 +38,7 @@
 #### More
 
 - Graduated from the North University of China, Bachelor of Science in Applied Physics.
+- AI Production Development Engineer
 - Frontend developer, Gopher, Rustacean
 - Contact me:
   - hi@ibert.me
